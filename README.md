@@ -2,8 +2,8 @@
 <h3 align="center">I'm a passionate Full-Stack Developer from Morocco.</h3>
 
 ### :man_technologist: About Me :
-I am a student engineer in 3nd year web and mobile computing engineering option Web Intelligence in ENSIAS Morocco.
-- 🌱 I’m currently learning **Spring Framework and Angular**
+I am a Software Engineering graduatefrom ENSIAS Morocco. Currently, I amin my final year internship at OracleResearch and Development Center inMorocco.
+
 
 - 📫 How to reach me **baibbamohammed@gmail.com**
 
