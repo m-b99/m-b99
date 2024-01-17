@@ -2,7 +2,8 @@
 <h3 align="center">I'm a passionate Full-Stack Developer from Morocco.</h3>
 
 ### :man_technologist: About Me :
-I am a Software Engineering graduatefrom ENSIAS Morocco. Currently, I amin my final year internship at OracleResearch and Development Center inMorocco.
+I am a Software Engineering graduate
+from ENSIAS Morocco.
 
 
 - 📫 How to reach me **baibbamohammed@gmail.com**
