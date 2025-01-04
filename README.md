@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Baiba Mohamed</h1>
-<h3 align="center">I'm a passionate Full-Stack Developer from Morocco.</h3>
+<h3 align="center">Full-Stack Developer from Morocco.</h3>
 
 ### :man_technologist: About Me :
-I am a Software Engineering graduate
+Software Engineering graduate
 from ENSIAS Morocco.
 
 
